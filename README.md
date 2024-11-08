@@ -46,7 +46,7 @@ This architecture uses a suite of AWS services to deliver high performance and s
 ![Backend Diagram](Back%20end%20diagram.png)
 
 ### Complete AWS Architecture
-![AWS Architecture Diagram](AWS%20Architecture%20diagram.png)
+<img src="https://github.com/NathanVuSwinburne/AWS_Cloud_Computing_Project/blob/main/AWS%20Archirtecture%20diagram.png" />
 
 ## Instructions to Run the Project
 1. **Clone the Repository**:
